@@ -1,0 +1,21 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "\"sehars-atm\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.5",
+    "typescript": "^5.5.0-dev.20240504"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
